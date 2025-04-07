@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Palak!
 
 🌟 **Senior Product Manager** | Web, Mobile & B2B/B2C Products  
-📍 Based in [Your Location] | 💼 Currently @ [Your Company Name]
+📍 Based in [India, Mumbai] | 💼 Currently @ [Your Redpin]
 
 ---
 
@@ -43,8 +43,8 @@
 
 ### 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- ✉️ [Email me](mailto:youremail@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/palakpatel2486/)  
+- ✉️ [Email me](palak.patel2486@gmail.com)  
 - 🧠 Fun fact: I love connecting dots between product, design, data, and customer happiness!  
 
 ---
